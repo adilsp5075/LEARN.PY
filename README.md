@@ -1,2 +1,2 @@
 # LEARN.PY
-It's a python challenge workshoap conducted by Tinkerhub IETCU
+It's a python challenge workshop conducted by Tinkerhub IETCU
